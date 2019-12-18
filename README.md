@@ -37,6 +37,6 @@ Here I'd like to highlight the most common measures that a DApp developer must c
 
 - **Formal verification.** [Formal verification](https://en.wikipedia.org/wiki/Formal_verification) much like the automated testing is an additional method of reducing the overhead for software testers/auditors/developers. This can be helpful in some cases but formal verification is not a self-sufficient method of ensuring system safety and must not be relied on.
 
-# How do you launch a DAPP following the best security practices
+# Launching a DAPP following the best security practices
 
 
