@@ -39,6 +39,14 @@ Here I'd like to highlight the most common measures that a DApp developer must c
 
 - **Follow well-known programming practices.** Security is not a new area of programming and there are plenty of well-known mass-adopted methods and practices that are time proven already. **Adhere to coding standards. Comment your code.** It is strongly recommended for any contract developer to read the description of coding standards of the platform they intend to use. It is also recommended to read the respectable coding standards adopted by large-scale programming communities such as [GNU Coding Standard](https://www.gnu.org/prep/standards/standards.html). This is very important and it is not a matter of preferences! The coding standards are intended to make the logic represented by code pieces as straightforward as possible which greatly improves the ability of an auditor/software tester/code reviewer to identify and report a system flaw. The more readability of your code the better.
 
+- **Make your application modular if possible.** Following this method of software development will improve the auditability of the code. This increases the effectiveness of auditing and testing as well. This may be hard with procedural programming languages as contrary to object-oriented practices. However dividing the program into independant modules allows for better testing/debugging and independant audits of each module. This also improves the upgradeability of the system which is important for fault-tolerance.
+
 # Launching a DAPP following the best security practices
 
+To ensure an adequate level of security, the DAPP developer must take the following steps in the sequence described.
 
+0. Think about the coding standard and decide on it before you start so that all smart contracts are written in the same coding standard.
+
+1. Develop your smart-contracts and comment the code if possible. It is way better to make it open-source and publish the results to the community for review. Consider adding an open-source license. Github is the right place to store your codes.
+
+2. 
