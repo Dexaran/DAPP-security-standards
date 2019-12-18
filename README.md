@@ -18,3 +18,5 @@ There is no single universal method that is sufficient to ensure software securi
 A combination of security improvement methods and measures can significantly reduce the risk of DApp being hacked. Each security improvement strategy introduces a new layer of safety and it is strongly advised to rely on multiple "security layers". It may be even better to focus on system [fault-tolerance](https://en.wikipedia.org/wiki/Software_fault_tolerance) instead of trying to make it unhackable.
 
 In the case of DApp, **fault tolerance** is the ability of DApp being fixed/debugged in case of detection of malicious activity.
+
+When it comes to evaluating security enhancement methods it proves that [security audit](https://en.wikipedia.org/wiki/Information_technology_security_audit) is one of the most efficient methods albeit the most expensive one.
