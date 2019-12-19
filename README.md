@@ -69,4 +69,4 @@ To ensure an adequate level of security, the DAPP developer must take the follow
 
 10. Do not hesitate to publicly thank and mention the auditors, bug hunters and bug bounty participants. Reputation is valuable in security auditing area because auditors salary depend on reputation and this public mentions of auditor/bug finder will increase his/her reputation. Public announcements of paid rewards will also draw attention to your bug bounty programs which also increases the level of your safety.
 
-#### It is much better to pay $20,000 of rewards for bug bounties than have $20,000,000 stolen by hackers. Stay safe and keep your customers safe.
+#### It is much better to pay $20,000 of rewards for bug bounties than have $200,000 stolen by hackers. Stay safe and keep your customers safe.
