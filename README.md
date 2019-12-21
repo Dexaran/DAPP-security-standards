@@ -47,7 +47,7 @@ Here I'd like to highlight the most common measures that a DApp developer must c
 
 To ensure an adequate level of security, the DAPP developer must take the following steps in the sequence described.
 
-0. Think about the coding standard and decide on it before you start so that all smart contracts are written in the same coding standard.
+0. BEFORE YOU START: Think about a coding standard and decide on this before you start writing contracts so that all smart contracts are written in the same coding style. This will simplify testing/ auditing/ maintaining the contract system a lot.
 
 1. Develop your smart-contracts and comment the code if possible. It is way better to make it open-source and publish the results to the community for review. Consider adding an open-source license. Github is the right place to store your codes.
 
