@@ -67,6 +67,6 @@ To ensure an adequate level of security, the DAPP developer must take the follow
 
 9. Leave the public bug bounty open for participation forever. It is possible that someone will identify a flaw in your DAPP after months or even years of its operation on mainnet. In this case  a person will likely look for the ability to get reward in exchange for the flaw report. You should make your constant bug bounty transparently available for everyone so that your users know where to look.
 
-10. Do not hesitate to publicly thank and mention the auditors, bug hunters and bug bounty participants. Reputation is valuable in security auditing area because auditors salary depend on reputation and this public mentions of auditor/bug finder will increase his/her reputation. Public announcements of paid rewards will also draw attention to your bug bounty programs which also increases the level of your safety.
+10. Do not hesitate to publicly thank and mention the auditors, bug hunters and bug bounty participants. Reputation is a valuable asset in security auditing because auditors salary depends on their reputation. Public announcements of paid rewards will also draw attention to your bug bounty program which also increases the level of your safety.
 
-#### It is much better to pay $20,000 of rewards for bug bounties than have $200,000 stolen by hackers. Stay safe and keep your customers safe.
+#### It is much better to pay $20,000 for bug bounties than have $2,000,000 stolen by hackers. Stay safe and keep your customers safe.
